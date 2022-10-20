@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Zad1.cpp" />
+    <ClCompile Include="Zad2.cpp" />
+    <ClCompile Include="Zad3.cpp" />
     <ClCompile Include="Zadanie1.cpp" />
     <ClCompile Include="Zadanie2.cpp" />
     <ClCompile Include="Zadanie3.cpp" />

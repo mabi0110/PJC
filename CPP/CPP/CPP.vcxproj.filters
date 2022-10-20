@@ -16,6 +16,9 @@
     <Filter Include="Pliki źródłowe\cw1">
       <UniqueIdentifier>{3c252d1d-43c3-4e4f-8d57-0d397ab3e982}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Pliki źródłowe\cw2">
+      <UniqueIdentifier>{12d80028-cd98-46b3-bf26-58dbf54e7ae9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Zadanie1.cpp">
@@ -32,6 +35,15 @@
     </ClCompile>
     <ClCompile Include="Zadanie5.cpp">
       <Filter>Pliki źródłowe\cw1</Filter>
+    </ClCompile>
+    <ClCompile Include="Zad1.cpp">
+      <Filter>Pliki źródłowe\cw2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zad2.cpp">
+      <Filter>Pliki źródłowe\cw2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zad3.cpp">
+      <Filter>Pliki źródłowe\cw2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

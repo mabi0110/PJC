@@ -1,0 +1,8 @@
+﻿  Zad3.cpp
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(35,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(54,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(67,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(82,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(83,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\pulpit\CPP\CPP\CPP\Zad3.cpp(84,8): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+  CPP.vcxproj -> D:\pulpit\CPP\CPP\x64\Debug\CPP.exe
