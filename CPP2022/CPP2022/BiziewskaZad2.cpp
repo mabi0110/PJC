@@ -1,3 +1,4 @@
+/*
 #if   defined(POL) && defined(ENG)
 #error Please define only one country
 #elif !(defined(POL) || defined(ENG))
@@ -13,6 +14,7 @@
 #define mess2 "Max sum of digits was "
 #define mess3 " for "
 #endif
+
 
 #include <iostream>
 using namespace std;
@@ -39,3 +41,6 @@ int main() {
 
 	cout << mess2 << sumOfDigits << mess3 << max << endl;
 }
+
+*/
+

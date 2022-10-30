@@ -1,2 +1,4 @@
-﻿  BiziewskaZad2.cpp
+﻿  BiziewskaZad3.cpp
+D:\pulpit\CPP\CPP2022\CPP2022\BiziewskaZad3.cpp(7,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\pulpit\CPP\CPP2022\CPP2022\BiziewskaZad3.cpp(15,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
   CPP2022.vcxproj -> D:\pulpit\CPP\CPP2022\Debug\CPP2022.exe
