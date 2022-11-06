@@ -142,6 +142,7 @@
     <ClCompile Include="BiziewskaZad1.cpp" />
     <ClCompile Include="BiziewskaZad2.cpp" />
     <ClCompile Include="BiziewskaZad3.cpp" />
+    <ClCompile Include="BiziewskaZad4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
