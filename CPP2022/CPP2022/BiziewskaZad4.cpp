@@ -61,6 +61,7 @@ void printOddEven(int n) {
             printOddEven(n);
         }
         else {
+            even = 2;
             return;
         }
     }
@@ -71,6 +72,7 @@ void printOddEven(int n) {
             printOddEven(n);
         }
         else {
+            odd = 1;
             return;
         }       
     }
