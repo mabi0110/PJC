@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 
 int gcdRec(int a, int b);
@@ -96,6 +98,7 @@ void hailstone(int n) {
     }
 
 }
+*/
 
 
 

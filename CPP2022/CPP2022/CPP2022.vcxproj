@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Add3.cpp" />
     <ClCompile Include="BiziewskaZad1.cpp" />
     <ClCompile Include="BiziewskaZad2.cpp" />
     <ClCompile Include="BiziewskaZad3.cpp" />
