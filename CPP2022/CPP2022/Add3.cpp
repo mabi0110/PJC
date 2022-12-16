@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 using namespace std;
 
@@ -28,3 +30,5 @@ int main() {
 	size_t size = sizeof(arr) / sizeof(*arr);
 	histo(arr, size);
 }
+
+*/
