@@ -39,7 +39,7 @@ const Couple* bestClient(const Couple* cpls,
 }
 int main() {
 	using std::cout; using std::endl;
-	Couple cpls[] = { 
+	Couple cpls[] = {
 		{{"Johny", {PKO, 1200}}, {"Mary", {BGZ, 1400}}},
 		{{"Peter", {BGZ, 1400}}, {"Suzy", {BRE, -1500}}},
 		{{"Kevin", {PKO, 1600}}, {"Katy", {BPH, 1500}}},
