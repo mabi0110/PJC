@@ -51,5 +51,8 @@
     <ClCompile Include="BiziewskaZad9.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="BiziewskaZad10.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

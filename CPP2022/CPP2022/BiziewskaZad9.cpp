@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -45,8 +46,7 @@ Segment operator- (const Segment& seg, const double d) {
 Segment operator+ (const Segment& seg1, const Segment& seg2) {
 	if (seg1.getA() < seg2.getB()) {
 		return (seg1.getB() < seg2.getB()) ? Segment(seg1.getA(), seg2.getB()) : Segment(seg1.getA(), seg1.getB());
-	}
-	else {
+	} else {
 		return (seg1.getB() < seg2.getB()) ? Segment(seg2.getA(), seg2.getB()) : Segment(seg2.getA(), seg1.getB());
 	}
 }
@@ -62,4 +62,4 @@ int main() {
     for (double x = 0.5; x < 4; x += 1)
         cout << "x=" << x << ": " << s(x) << endl;
 }
-
+*/
